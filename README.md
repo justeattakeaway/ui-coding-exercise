@@ -19,7 +19,6 @@ Please:
 
 ## Important considerations
 
-* We don’t expect candidates to finish all of the styling detailed in the design (as we appreciate that would take a lot of time).  Focus on making the parts that you do work on a good standard that reflects your ability.  We’d rather see a number of the components from the design styled well, than lots of incomplete components.
 * We don’t expect your submitted code to work in every browser combination (given the time constraints), but coding in a way that shows you've thought about fallbacks if/when using newer language features is expected.
 * Think about how the CSS you write can be used across other pages on the site.  We build our CSS in a component-driven way so show us that you can do that too.
 * Please don’t use a framework (i.e. Bootstrap, Material or Tailwind) to do the majority of your styling – we're trying to assess how you would style this yourself, not whether you can use a CSS framework.
