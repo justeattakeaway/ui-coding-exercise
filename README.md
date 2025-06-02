@@ -7,11 +7,14 @@ This Tech test aims to assess your all around front-end skills – HTML, CSS and
 
 Please:
 
-* Create an HTML page to represent the search results design in the `jet-serp.png` image. Use semantic, accessible and valid mark-up.
+* Create an HTML page to represent the Create Account design in the `design-screenshot.png` image (or `design-figma.fig` Figma file). Use semantic, accessible and valid mark-up.
 * We have provided the Figma version of this design for those of you who have this software (you should be able to get [free access](https://www.figma.com/downloads/) on both Mac and Windows to just view this file).  We have also provided the design as a PNG if you cannot open the design using Figma.
 * Style the page so that it looks like the design.  This can be done using native CSS, or using a preprocessor like Sass – whatever you prefer.
-* Write a small piece of JavaScript so that the 'Search for a restaurant' search box shows and hides the restaurants displayed on the page.
 * Use the images, icons and fonts in the `/assets` folder to help you when styling the page.
+* Write some JavaScript to:
+    * Validate the form fields on the page.
+    * Enable the password field to toggle between being obfuscated and plain text by interacting with the 'Eye' icon.
+    * Count the number of characters entered in the password field and update the counter to the top right of the form field.
 
 
 ## Important considerations
