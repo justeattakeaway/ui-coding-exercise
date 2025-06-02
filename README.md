@@ -2,7 +2,7 @@
 
 This Tech test aims to assess your all around front-end skills – HTML, CSS and JavaScript.
 
-### 📋 Task requirements
+## 📋 Task requirements
 
 Please:
 
@@ -29,7 +29,7 @@ Please:
     * If there are any parts of the test you didn't have time to complete, explain how you'd approach these parts of the task if you had more time.
 
 
-# ❓ Technical Questions
+## ❓ Technical Questions
 
 * What approaches did you use when completing the test?  Do you use any CSS methodologies or techniques to help this approach?
 * If you had more time to spend on the test, what would you like to add to your solution?
@@ -38,7 +38,7 @@ Please:
 * Please describe yourself using JSON.
 
 
-# 📤 Submitting your test
+## 📤 Submitting your test
 
 Please submit your code as specified by the recruiter. Usually this will be via Google Drive.
 
