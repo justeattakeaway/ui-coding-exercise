@@ -1,9 +1,8 @@
-UI Tech Test
-============
+# 🧪 UI Tech Test
 
 This Tech test aims to assess your all around front-end skills – HTML, CSS and JavaScript.
 
-### Task requirements
+### 📋 Task requirements
 
 Please:
 
@@ -18,7 +17,7 @@ Please:
     * Count the number of characters entered in the password field and update the counter to the top right of the form field.
 
 
-## Important considerations
+## ⚠️ Important considerations
 
 * We don’t expect your submitted code to work in every browser combination (given the time constraints), but coding in a way that shows you've thought about fallbacks if/when using newer language features is expected.
 * We understand that you may be developing from a PNG and not the Figma file – don’t get too hung up on the exact colours of text or margins between elements. We'll be looking at the structure of your code and aren't expecting pixel precision.
@@ -30,7 +29,7 @@ Please:
     * If there are any parts of the test you didn't have time to complete, explain how you'd approach these parts of the task if you had more time.
 
 
-# Technical Questions
+# ❓ Technical Questions
 
 * What approaches did you use when completing the test?  Do you use any CSS methodologies or techniques to help this approach?
 * If you had more time to spend on the test, what would you like to add to your solution?
@@ -39,7 +38,7 @@ Please:
 * Please describe yourself using JSON.
 
 
-# Submitting your test
+# 📤 Submitting your test
 
 Please submit your code as specified by the recruiter. Usually this will be via Google Drive.
 
