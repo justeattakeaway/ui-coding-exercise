@@ -19,7 +19,7 @@ Please:
 
 ## ⚠️ Important considerations
 
-* Please do not use AI to generate the code. You may use AI bounce off ideas and ask general questions, but the solution must be your own original work.
+* Please do not use AI to generate your submission. Feel free to use AI to bounce ideas off and ask general questions, but the solution must be your own original work.
 * We don’t expect your submitted code to work in every browser combination (given the time constraints), but coding in a way that shows you've thought about fallbacks if/when using newer language features is expected.
 * We understand that you may be developing from a PNG and not the Figma file – don’t get too hung up on the exact colours of text or margins between elements. We'll be looking at the structure of your code and aren't expecting pixel precision.
 * Please don’t use a framework (i.e. Bootstrap, Material or Tailwind) to do the majority of your styling – we're trying to assess how you would style this yourself, not whether you can use a CSS framework.
