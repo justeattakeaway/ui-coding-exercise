@@ -26,6 +26,7 @@ Please:
 * Feel free to use tools like Vite, Astro, NextJS or Nuxt if that gets you up and running faster. Just be sure to explain why you've chosen to use it when submitting your test.
 * Think about how the CSS you write can be used across other pages on the site.  We build our CSS in a component-driven way so show us that you can do that too.
 * Don’t overcomplicate the JavaScript part of the task.  We just want to see that you know how to write basic JS.
+* Please consider making smaller commits while you work, so we can see how you approached the task. We won't be judging any mistakes made along the way, instead we are interested in understanding your thought process.
 * We advise spending at least an hour or two on the test – if you want to spend more or less time on it, that’s completely up to you.
     * If there are any parts of the test you didn't have time to complete, explain how you'd approach these parts of the task if you had more time.
 
