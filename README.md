@@ -15,7 +15,12 @@ Please:
     * Validate the form fields on the page.
     * Enable the password field to toggle between being obfuscated and plain text by interacting with the 'Eye' icon.
     * Count the number of characters entered in the password field and update the counter to the top right of the form field.
-
+* Whilst you do not have to add all of these things, please consider the following (perhaps write about them in the comments):
+    * This is an international website with many users. How could copy in multiple languages be supported?
+    * How could the website be made accessible to screen readers?
+    * Could performance for mobile users be improved?
+    * What test strategies could we employ to ensure the page and individual components work and look as expected?
+    * What components could we build to help reuse code across the site?
 
 ## ⚠️ Important considerations
 
