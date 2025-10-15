@@ -44,6 +44,9 @@ Please:
 * What's your favourite programming language? Why?
 * Please describe yourself using JSON.
 
+Please write all answers to your technical questions in your readme.
+If using this repository, you may amend your README to this file.
+
 
 ## 📤 Submitting your test
 
